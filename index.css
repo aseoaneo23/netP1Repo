@@ -10,6 +10,16 @@ div.MainContainer {
 }
 
 div.MainContainer button{
+    margin-top: 10px;
     padding: 10px 20px
+}
+
+h2{
+    text-align: center;
+}
+
+input{
+    width: 250px;
+    text-align: center;
 }
 
